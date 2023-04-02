@@ -1,4 +1,8 @@
 # hse_hw3_chromhmm1
+Ссылка на блокнот с кодом 
+
+https://colab.research.google.com/drive/1me-LY00mcZGnLOIJvsdXAZ6QcA4xtv8r?usp=sharing
+
 **Гистоновы метки(назвние файла - гистоновая метка):**
 
 wgEncodeBroadHistoneHelas3H2azAlnRep1.bam - H2afz
@@ -27,11 +31,11 @@ wgEncodeBroadHistoneHelas3H3k09me3AlnRep1.bam - H3k09me3
 
 **ChromHMM**
 
-![emissions_15](https://user-images.githubusercontent.com/114064027/229372357-25ea45e6-5e23-4836-8df5-c85356c0f97a.png)
-![A549_15_overlap (1)](https://user-images.githubusercontent.com/114064027/229372377-93e48c31-56da-48ec-a95f-6eb4bbdfcc58.png)
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/114064027/229372955-29e5107d-51a7-4521-9636-3b35a661aeb2.png">
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/114064027/229372996-f5e3386f-fe1f-4772-bb99-99ebc7170a94.png">
 
-![A549_15_RefSeqTES_neighborhood](https://user-images.githubusercontent.com/114064027/229372684-b9159c89-a8df-484e-b4bb-e790b250758f.png)
-![A549_15_RefSeqTSS_neighborhood](https://user-images.githubusercontent.com/114064027/229372694-411e384c-aded-44c2-aab2-f5511a2fc918.png)
+<img width="250" alt="image" src="https://user-images.githubusercontent.com/114064027/229373026-8711611b-2f48-437a-8c93-94a57e61f2ee.png">
+<img width="250" alt="image" src="https://user-images.githubusercontent.com/114064027/229373055-7e742af6-1e5b-4cd8-aaca-7c608c1c5857.png">
 
 **Эпигенетические типы**
 
