@@ -33,3 +33,8 @@ wgEncodeBroadHistoneHelas3H3k09me3AlnRep1.bam - H3k09me3
 ![A549_15_RefSeqTES_neighborhood](https://user-images.githubusercontent.com/114064027/229372684-b9159c89-a8df-484e-b4bb-e790b250758f.png)
 ![A549_15_RefSeqTSS_neighborhood](https://user-images.githubusercontent.com/114064027/229372694-411e384c-aded-44c2-aab2-f5511a2fc918.png)
 
+**Эпигенетические типы**
+
+https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr1%3A1152162%2D1177086&hgsid=1600039215_DNqOTaRLsjh3qoT6D10zlqhVEaK3
+
+![image](https://user-images.githubusercontent.com/114064027/229372826-027eda48-f901-4c72-8f43-9118fc864c7b.png)
