@@ -42,3 +42,11 @@ wgEncodeBroadHistoneHelas3H3k09me3AlnRep1.bam - H3k09me3
 https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr1%3A1152162%2D1177086&hgsid=1600039215_DNqOTaRLsjh3qoT6D10zlqhVEaK3
 
 ![image](https://user-images.githubusercontent.com/114064027/229372826-027eda48-f901-4c72-8f43-9118fc864c7b.png)
+![image](https://user-images.githubusercontent.com/114064027/230057767-49d85000-3d6a-448b-aa25-c7e0c5493b52.png)
+
+
+![image](https://user-images.githubusercontent.com/114064027/230057438-1981bab3-f26d-4ad8-82f4-f87b6e68c4d6.png)
+![image](https://user-images.githubusercontent.com/114064027/230057549-6f82fd27-1d8b-4039-9223-337c39e01054.png)
+![image](https://user-images.githubusercontent.com/114064027/230057607-af249bea-fa7f-4d54-bd86-6101a191be36.png)
+
+
